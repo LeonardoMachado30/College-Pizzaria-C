@@ -3,12 +3,10 @@
 Apresentação das imagens a seguir e referente ao programa PIZZARIA
 <br>
 <h3>PORTUGUÊS</h3>
-<br>
 Esse projeto foi proposto no primeiro semestre da faculdade, para que fosse criado um sistema de funcionarios usando a linguagem de programação C.
 Foram elaborados 'inclusão, exclusão e impressão' de Cliente, Funcionarios, Pizzas e Pizzaolos.
 <br>
 <h3>ENGLISH</h3>
-<br>
 This project was proposed in the first semester of college, so that an employee system could be created using the C programming language.
 'Inclusion, exclusion and impression' of Customers, Employees, Pizzas and Pizzaolos were prepared.
 <br>
